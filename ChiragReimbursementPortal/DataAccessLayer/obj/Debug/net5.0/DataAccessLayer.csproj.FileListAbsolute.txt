@@ -1,0 +1,15 @@
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\chiragarora01\source\repos\ChiragReimbursementPortal\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
